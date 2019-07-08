@@ -28,7 +28,6 @@ Now do you want to do the test but use different input, simply change the ``inpu
 - Type as many or as few patches of dirt in the same format, on different lines, e.g:
 
   1 0
-
   2 2
 
   3 3
@@ -38,7 +37,7 @@ Now do you want to do the test but use different input, simply change the ``inpu
   0 1
 
   0 3
-  
+
   4 3
 - Finally type in the navigational commands in the last line, use only N,W,S or E, each representing North, West, South and East respectively. Make sure to type in in CAPS and leave no spaces. e.g:
 
