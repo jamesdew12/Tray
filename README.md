@@ -28,6 +28,7 @@ Now do you want to do the test but use different input, simply change the ``inpu
 - Type as many or as few patches of dirt in the same format, on different lines, e.g:
 
   1 0
+  
   2 2
 
   3 3
