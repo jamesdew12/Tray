@@ -52,3 +52,6 @@ It was tough choice between either working in Ruby or Javascript, two languages 
 If I was to do the test differently/again I would firstly do it in Javascript so I could put in some more practice in Javascript, and get more code exposure to different languages. However If I were to expand on this test I would add some more variables to the equation e.g. sofa in the room.
 
 Overall I think the challenge went pretty well, I’m really happy with the code that I have written, the tests I have wrote and the overall experience of the test itself was quite fun and good for practice.
+
+# Implementation & Sales Engineer Candidate Test
+For this test please go to the Implementation & Sales Engineer Candidate Test file in this repository.
