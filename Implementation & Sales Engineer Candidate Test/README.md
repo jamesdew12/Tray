@@ -1,8 +1,11 @@
 ## Implementation & Sales Engineer Candidate Test
 
 The integration should take the data, which in this case would be in the JSON format and use the Slack API to post these messages automatically to slack in channel depending on which country was selected in creating the opportunity. e.g. "country": "UK" then we would post in the #sales-UK channel. Furthermore, we would only need to post certain data from the JSON:
+
 Opportunity Name - Account Name
+
 Close date - Amount
+
 Type - Owner
 
 # This diagram shows a very basic flow of the data
@@ -18,10 +21,13 @@ Configuration:
 
 Questions you might have?
 - How do we get the right data?
+
   We parse through the JSON to get the relevant data.
 - How does it get formatted?
+
   Slack has great formatting tools for JSON which is really helpful, making the data look more presentable.
 - How does the slack API post a message into the right channel?
+
   When parsing through the data the channel it will be posted in will be determined by this data part of the post request. "country": "UK"
 
 # Reflection
