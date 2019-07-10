@@ -37,6 +37,6 @@ Questions you might have?
 
 # Reflection
 
-- Overall I found this task to be a bit more challenging at first, however I came to really enjoy it because I found the flow the implementation really interesting, its a task that I would have like to do practically, set it up and write some code for it, to help further my understanding of how the integration can be built.
+- Overall I found this task to be a bit more challenging at first, however I came to really enjoy it because I found the flow the implementation really interesting, its a task that I would have liked to have done practically, set it up and write some code for it, to help further my understanding of how the integration can be built.
 
 - Finally, I found it quite fun working as if I was going to present this to a client, I really like the idea of working with clients and feel it is an area in which I will succeed in.
