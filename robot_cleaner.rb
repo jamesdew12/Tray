@@ -49,4 +49,4 @@ end
 robot_cleaner = RobotCleaner.new
 robot_cleaner.turn_on
 robot_cleaner.format_and_get_dirt_locations
-robot_cleaner.find_and_return_results
+robot_cleaner.find_and_return_results # This will return the results in the command line for the user to see
