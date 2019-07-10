@@ -17,7 +17,7 @@ Here is a diagram that shows the flow of data, we Tray will be configuring this 
 
 Configuration:
 - make sure the form of the post request is ``application/json``
-- enable webhooks, go to the settings on the your apps page and enable it.
+- enable webhooks, go to the settings on your apps page and enable it.
 - create the channels yourself so that you can place the relevant UK, US and  EU teams into their respective channels.
 - we need to authorise webhooks for each channel so you only have to do it only once for each team/channel.
 
@@ -33,10 +33,10 @@ Questions you might have?
   When parsing through the data the channel it will be posted in will be determined by this data part of the post request. "country": "UK"
 
 - How the data could be mapped from the input to the Slack API?
-  The selected data that we have is given to the Slack API when we call it, most likely it will involve using a pull request, which we can setup in a way so when the Sales rep makes the initial pull request we can call the Slack API as well.
+  The selected data that we have is given to the Slack API when we call it, most likely it will involve using a pull request, which we can set up in a way so when the Sales rep makes the initial pull request we can call the Slack API as well.
 
 # Reflection
 
 - Overall I found this task to be a bit more challenging at first, however I came to really enjoy it because I found the flow the implementation really interesting, its a task that I would have like to do practically, set it up and write some code for it, to help further my understanding of how the integration can be built.
 
-- Finally I found it quite fun working as if I was going to present this to a client, I really like the idea of working with clients and feel it is an area in which I will succeed in.
+- Finally, I found it quite fun working as if I was going to present this to a client, I really like the idea of working with clients and feel it is an area in which I will succeed in.
