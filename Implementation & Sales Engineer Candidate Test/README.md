@@ -32,6 +32,9 @@ Questions you might have?
 
   When parsing through the data the channel it will be posted in will be determined by this data part of the post request. "country": "UK"
 
+- How the data could be mapped from the input to the Slack API?
+  The selected data that we have is given to the Slack API when we call it, most likely it will involve using a pull request, which we can setup in a way so when the Sales rep makes the initial pull request we can call the Slack API as well.
+
 # Reflection
 
 - Overall I found this task to be a bit more challenging at first, however I came to really enjoy it because I found the flow the implementation really interesting, its a task that I would have like to do practically, set it up and write some code for it, to help further my understanding of how the integration can be built.
